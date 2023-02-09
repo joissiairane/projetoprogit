@@ -1,0 +1,9 @@
+body{
+    padding: 50px;
+    background-color: powderblue;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida  Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: rgb(202, 61, 84);
+}
